@@ -114,9 +114,6 @@ if(NUM_LOOPS>=10)    {
 
 
 ```
-## Write a C program that implements a producer-consumer system with two processes using Semaphores.
-
-
 
 
 ## OUTPUT
