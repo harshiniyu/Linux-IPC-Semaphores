@@ -128,9 +128,6 @@ $ ipcs
 
 ![image](https://github.com/harshiniyu/Linux-IPC-Semaphores/assets/144979786/906071ac-d106-4498-b186-101f2bf063d2)
 
-## RESULT:
-
-The program is executed successfully.
 
 
 # RESULT:
